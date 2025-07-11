@@ -37,9 +37,9 @@
 
 ###
 
-![MhmmdRafli's GitHub stats](https://github-readme-stats.vercel.app/api?username=VladR382&hide=stars)
+![MhmmdRafli's GitHub stats](https://github-readme-stats.vercel.app/api?username=VladR382&hide=stars&show_icons=true&rank_icon=github&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladR382&layout=donut-vertical&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladR382&layout=donut-vertical)
+
 ###
 
 <picture>
